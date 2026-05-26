@@ -2181,6 +2181,10 @@ const TRANSLATIONS = {
 		"HEVLIB_SETTING_REQUIRES_RESTART": {
 			"string": "NOTICE: This setting requires a restart after changing it.",
 			"version_hash": 1236302953
+		},
+		"TEST_STRING": {
+			"string": "This is a test string!",
+			"version_hash": 3853894930
 		}
 	},
 	"uk_UA": {
